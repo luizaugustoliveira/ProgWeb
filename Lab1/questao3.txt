@@ -1,0 +1,1 @@
+Versionamento de código é uma forma de gerar desenvolvimento colaborativo porque é possível que cada desenvolvedor trabalhe em suas próprias máquinas de forma remota em cima do mesmo repositório na perspectiva de que cada um pode adicionar mudanças em suas próprias branches ou na branch principal caso não gerem conflitos de código.

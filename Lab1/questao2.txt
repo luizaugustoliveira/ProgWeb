@@ -1,0 +1,1 @@
+Posso elencar que a tríade do desenvolvimento web é composta da linguagem de marcação HTML, aliada com a linguagem de estilização CSS e a linguagem do Javascript utilizada para gerar dinamicidade nos componentes do site, ao passo que, funciona tanto como liinguagem de caráter front end quanto de caráter back end.

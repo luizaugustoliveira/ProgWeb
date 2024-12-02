@@ -1,0 +1,4 @@
+O surgimento do HTML teve uma importância fundamental no contexto dos anos 2000 e 2010 cuja finalidade da web era em grande parte utilizada para acessar portais como blogs, sites informativos e youtube.
+
+Desse modo, a linguagem de marcação do HTML permitia delimitar estruturas pra construir os sites. Por exemplo, definindo parágrafos, cabeçalhos, tabelas de conteúdo, ou inserindo imagens e vídeos na página.
+

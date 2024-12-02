@@ -1,0 +1,66 @@
+
+body, h1, p, a {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilo geral do body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Introdução */
+.introducao {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    max-width: 800px;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 18px;
+    color: #555;
+    font-style: italic;
+}
+
+/* Questões */
+.questoes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.questoes a {
+    display: inline-block;
+    text-decoration: none;
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+    font-weight: bold;
+}
+
+.questoes a:hover {
+    background-color: #0056b3;
+}
+
+@media (max-width: 600px) {
+    .introducao {
+        font-size: 16px;
+        padding: 15px;
+    }
+
+    .questoes a {
+        padding: 8px 15px;
+    }
+}

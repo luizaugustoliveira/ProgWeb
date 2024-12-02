@@ -1,0 +1,1 @@
+JavaScript é uma linguagem de programação que permite implementar componentes dinâmicos em páginas web, ao passo que, faz mais do que simplesmente mostrar a você informação estática — mostrando conteúdo que se atualiza em um intervalo de tempo, mapas interativos ou gráficos 2D/3D animados, entre outros.

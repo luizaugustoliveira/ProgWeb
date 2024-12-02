@@ -1,0 +1,3 @@
+A abordagem pra organizar as tarefas seria inicialmente definir os requisitos do projeto, quais telas viria a ser necessário implementar, definição de qual banco de dados, definição do design para que em seguida fosse separado o que cada um ia fazer.
+
+No que se refere ao versionamento, eu acharia melhor cada um criar uma branch separada e ir trabalhando nelas para que só em um momento posterior fazer o merge para a branch principal após validação de todo o time de desenvolvimento de software.
